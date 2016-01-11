@@ -1,25 +1,25 @@
 ---
-inFeed: false
+inFeed: true
 hasPage: true
 inNav: false
 inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-11T19:46:36.037Z'
-dateModified: '2016-01-11T19:46:24.959Z'
+datePublished: '2016-01-11T19:56:45.947Z'
+dateModified: '2016-01-11T19:56:13.799Z'
 title: Connecting to nature
 author: []
+sourcePath: _posts/2016-01-11-connecting-to-nature.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-01-11-connecting-to-nature.md
-published: true
 url: connecting-to-nature/index.html
-_type: Blurb
+_type: Article
 
 ---
 Connecting people back to nature
