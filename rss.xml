@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Nature is happy]]></title>
         <description><![CDATA[Nature is happy]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/nature-is-happy/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 11 Jan 2016 19:13:14 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 11 Jan 2016 19:29:04 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/nature-is-happy/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>Reconnecting to nature</p>]]></description>
+            <link>https://thegrid.ai/nature-is-happy/95c4e6ce-9b97-419a-b0c7-9ddc3398ff5e/index.html</link>
+            <guid isPermaLink="false">95c4e6ce-9b97-419a-b0c7-9ddc3398ff5e</guid>
+            <pubDate>Mon, 11 Jan 2016 19:29:02 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/96ecb744-cbbe-4c99-8226-e4e4e964bcd1.JPG">]]></description>
-            <link>undefined63df03ec-2f9f-4a9b-bba6-beea7d3bb2d3/index.html</link>
+            <link>https://thegrid.ai/nature-is-happy/63df03ec-2f9f-4a9b-bba6-beea7d3bb2d3/index.html</link>
             <guid isPermaLink="false">63df03ec-2f9f-4a9b-bba6-beea7d3bb2d3</guid>
             <pubDate>Mon, 11 Jan 2016 19:13:13 GMT</pubDate>
         </item>
