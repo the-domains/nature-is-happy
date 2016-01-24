@@ -1,6 +1,6 @@
 name: Nature is happy
 favicon: null
-layout_spectrum: 0.23306
+layout_spectrum: 0.98734
 typography_spectrum: 0.07407
 title: Reconnecting to nature
 cta:
@@ -22,8 +22,8 @@ color:
     - '#cf6800'
     - '#ffb543'
     - '#92948e'
-  brandStrength: 0.5625
-  lightness: 0.375
+  brandStrength: 0.8125
+  lightness: 0.3125
   saturation: 0.6875
-  rhythmicContrast: 0.5
+  rhythmicContrast: 0.75
 purpose: []
