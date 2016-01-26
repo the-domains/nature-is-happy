@@ -6,7 +6,7 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-26T16:20:30.314Z'
+datePublished: '2016-01-26T16:20:30.332Z'
 dateModified: '2016-01-26T16:20:24.617Z'
 title: Reconnect-to-Nature Workshops
 author: []
