@@ -1,13 +1,13 @@
 ---
-inFeed: true
+inFeed: false
 hasPage: true
 inNav: true
 inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-26T16:31:26.679Z'
-dateModified: '2016-01-26T16:31:22.173Z'
+datePublished: '2016-01-26T16:34:13.999Z'
+dateModified: '2016-01-26T16:34:10.293Z'
 title: Reconnect-to-Nature Workshops
 author: []
 sourcePath: _posts/2016-01-11-connecting-to-nature.md
@@ -19,7 +19,7 @@ publisher:
   url: null
   favicon: null
 url: connecting-to-nature/index.html
-_type: Article
+_type: WebPage
 
 ---
 # Reconnect-to-Nature Workshops
