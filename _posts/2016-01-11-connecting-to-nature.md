@@ -3,11 +3,11 @@ inFeed: false
 hasPage: true
 inNav: true
 inLanguage: null
-starred: false
+starred: true
 keywords: []
 description: ''
-datePublished: '2016-01-26T16:50:30.196Z'
-dateModified: '2016-01-26T16:50:26.466Z'
+datePublished: '2016-01-26T16:53:16.175Z'
+dateModified: '2016-01-26T16:53:09.973Z'
 title: Reconnect-to-Nature Workshops
 author: []
 sourcePath: _posts/2016-01-11-connecting-to-nature.md
