@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-26T16:34:14.234Z'
-dateModified: '2016-01-26T16:34:10.293Z'
+datePublished: '2016-01-26T16:50:30.129Z'
+dateModified: '2016-01-26T16:50:26.466Z'
 title: Reconnect-to-Nature Workshops
 author: []
 sourcePath: _posts/2016-01-11-connecting-to-nature.md
