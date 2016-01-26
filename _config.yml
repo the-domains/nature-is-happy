@@ -24,6 +24,6 @@ color:
     - '#92948e'
   brandStrength: 0.3125
   lightness: 0.625
-  saturation: 0.5
+  saturation: 1
   rhythmicContrast: 0.25
 purpose: []
