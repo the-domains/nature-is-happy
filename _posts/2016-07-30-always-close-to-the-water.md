@@ -1,21 +1,27 @@
 ---
-at__type: Article
-at__context: 'http://schema.org'
+inFeed: true
+hasPage: false
+inNav: false
 isBasedOnUrl: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/59f28d1e-7944-47ad-b483-bcdecb173576.jpg
+inLanguage: null
+keywords: []
+description: 'Always close to the water… '
+datePublished: '2016-07-30T16:04:24.361Z'
+dateModified: '2016-07-30T16:02:59.147Z'
+at__type: Article
+at__context: 'http://schema.org'
 title: ''
-dateModified: '2016-07-30T16:00:57.779Z'
+author: []
+via: {}
+sourcePath: _posts/2016-07-30-always-close-to-the-water.md
+authors: []
 publisher:
   name: The-grid-user-content
   domain: the-grid-user-content.s3-us-west-2.amazonaws.com
   url: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com'
-author: []
-inFeed: true
-description: 'Always close to the water… '
-via: {}
-datePublished: '2016-07-30T16:01:01.017Z'
+  favicon: null
 starred: false
-sourcePath: _posts/2016-07-30-always-close-to-the-water.md
 _type: MediaObject
 
 ---
