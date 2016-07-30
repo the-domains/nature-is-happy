@@ -1,21 +1,21 @@
 ---
 inFeed: true
-hasPage: true
+hasPage: false
 inNav: false
+isBasedOnUrl: null
 inLanguage: null
 keywords: []
 description: Nature is happy
-datePublished: '2016-07-30T15:20:19.492Z'
-dateModified: '2016-07-30T15:19:32.863Z'
+datePublished: '2016-07-30T15:24:51.201Z'
+dateModified: '2016-07-30T15:23:33.070Z'
 title: ''
 author: []
 via: {}
+sourcePath: _posts/2016-07-30-nature-is-happy.md
 authors: []
 publisher: {}
 starred: false
-sourcePath: _posts/2016-07-30-nature-is-happy.md
-url: nature-is-happy/index.html
-_type: Article
+_type: Blurb
 
 ---
 [Nature is happy][0]
