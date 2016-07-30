@@ -4,7 +4,7 @@
         <description><![CDATA[Nature is happy]]></description>
         <link>https://thegrid.ai/nature-is-happy/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 30 Jul 2016 16:20:37 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 30 Jul 2016 16:22:20 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/nature-is-happy/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -12,13 +12,6 @@
             <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/7261d887-eaaa-4edc-8a1f-0109be099b88.jpg</link>
             <guid isPermaLink="false">b6de6e63-1608-4db6-ad6d-987567e77f1a</guid>
             <pubDate>Sat, 30 Jul 2016 16:20:19 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Nature is happy]]></title>
-            <description><![CDATA[<img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/be89dbfb6ab05cfc6af3d173a089fd147ddca608.jpg">]]></description>
-            <link>https://thegrid.ai/nature-is-happy/nature-is-happy/index.html</link>
-            <guid isPermaLink="false">63df03ec-2f9f-4a9b-bba6-beea7d3bb2d3</guid>
-            <pubDate>Sat, 30 Jul 2016 16:20:36 GMT</pubDate>
         </item>
     </channel>
 </rss>
