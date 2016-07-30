@@ -6,8 +6,8 @@ isBasedOnUrl: null
 inLanguage: null
 keywords: []
 description: Nature is happy
-datePublished: '2016-07-30T15:26:09.099Z'
-dateModified: '2016-07-30T15:25:00.285Z'
+datePublished: '2016-07-30T15:26:26.485Z'
+dateModified: '2016-07-30T15:26:17.443Z'
 title: ''
 author: []
 via: {}
